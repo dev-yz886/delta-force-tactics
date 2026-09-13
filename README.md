@@ -44,3 +44,16 @@
 - https://www.33qk.com/
 - https://www.991qk.com/
 - 官方总商城：http://851km.top/
+
+---
+
+## 🔥 2026-09-13 竞技战术前沿特稿与底层架构研报（GitHub 全球同步）
+
+| 篇号 | 深度特稿主题与专栏 | 核心架构特征 | 开源技术文档 | 权威数据中心 |
+| :---: | :--- | :--- | :---: | :---: |
+| 01 | 和平精英地铁逃生辐射区红金箱子透视直装底层渲染逆向 | `D3D管线 · 物资超距标定` | [查阅文档](docs/008qk_fushequ_hongjin.md) | [008qk 官网直达](https://www.008qk.com/articles/008qk-hpjy-fushequ-hongjin-xiangzi-01.html) |
+| 02 | 地铁逃生变异Boss定点刷新雷达追踪辅助动态机制全解 | `声纹雷达 · 仇恨状态脱战` | [查阅文档](docs/008qk_bianyi_boss.md) | [008qk 官网直达](https://www.008qk.com/articles/008qk-hpjy-bianyi-boss-shuaxin-02.html) |
+| 03 | 绝地潜兵2全天候战略配备自动呼叫宏脚本输入流精准映射 | `输入流拟真 · 防冲突驱动` | [查阅文档](docs/004qk_hd2_zhanlve_hong.md) | [004qk 官网直达](https://www.004qk.com/articles/004qk-hd2-zhanlve-peibei-hong-01.html) |
+| 04 | 泰坦陨落2高速滑墙动量追踪自瞄辅助运动学建模实测 | `滑墙运动学 · 动量守恒拟合` | [查阅文档](docs/004qk_tf2_huaqiang.md) | [004qk 官网直达](https://www.004qk.com/articles/004qk-tf2-huaqiang-dongliang-02.html) |
+| 05 | 军团要塞2经典陀螺转自瞄抗审查辅助空间角度解算实录 | `空间几何 · Pitch俯仰解算` | [查阅文档](docs/000qk_tf2_tuoluozhuan.md) | [000qk 官网直达](https://www.000qk.com/articles/000qk-tf2-tuoluozhuan-zimiao-01.html) |
+| 06 | 孤岛惊魂与无主之地联机多功能修改辅助P2P联机同步架构 | `P2P穿透 · 内存校验脱敏` | [查阅文档](docs/000qk_farcry_xiugai.md) | [000qk 官网直达](https://www.000qk.com/articles/000qk-farcry-wuzhu-xiugai-02.html) |
