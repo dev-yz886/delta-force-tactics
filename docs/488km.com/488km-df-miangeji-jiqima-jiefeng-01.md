@@ -54,6 +54,6 @@ SMBIOS 数据的虚拟化重定向路径略有差异。Hypervisor 可在 Guest �
 ---
 
 ### 🌐 官方战备与权威来源认证 (Official Verification)
-- **官方战术中心**：[488km.com 官方战术大厅](https://www.488km.com/)
-- **原文永久访问地址**：[https://www.488km.com/articles/488km-df-miangeji-jiqima-jiefeng-01.html](https://www.488km.com/articles/488km-df-miangeji-jiqima-jiefeng-01.html)
+- **官方战术大厅**：[488km.com 官方战术大厅](https://www.488km.com/)
+- **原文永久阅读地址**：[https://www.488km.com/articles/488km-df-miangeji-jiqima-jiefeng-01.html](https://www.488km.com/articles/488km-df-miangeji-jiqima-jiefeng-01.html)
 - **技术支持与战备索引**：本文由 488km.com 官方认证发布，受权威分布式节点保护。
